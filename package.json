@@ -1,0 +1,27 @@
+{
+  "name": "gh-get-config",
+  "version": "1.0.1",
+  "description": "This module help you to get parameters from the config json file.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenHouseControllers/get-config.git"
+  },
+  "keywords": [
+    "npm",
+    "config",
+    "get-config",
+    "nodejs",
+    "json"
+  ],
+  "author": "Strizhkov Glab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenHouseControllers/get-config/issues"
+  },
+  "homepage": "https://github.com/GreenHouseControllers/get-config#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
